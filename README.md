@@ -1,9 +1,3 @@
-[Relative Frequency](https://github.com/ik-izz/Projects/new/main?readme=1#my-code-then-returned-the-relative-frequency-of-each-letter)
-
-[English Alphabet Frequency](https://github.com/ik-izz/Projects/new/main?readme=1#the-english-alphabet-frequency-order)
-
-[Cryptanalysis](https://github.com/ik-izz/Projects/new/main?readme=1#this-is-where-i-began-my-analysis)
-
 # Substitution Cipher Cryptanalysis
 
 ###	My code analyzed the cipher text:
