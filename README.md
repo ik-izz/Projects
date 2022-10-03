@@ -5,7 +5,7 @@
 
 ### My code then returned the relative frequency of each letter. 
 > 	a:5, b:68, c:5, d:23, e:5, f:1, g:1, h:23, i:41, j:48, k:49, l:8, m:62, n:17, o:7, p:30, q:7, r:84, s:17, t:13, u:24, v:22, w: 47, x:20, y:19, z:0
-### Sorted it gives me:
+### When sorted it gives me:
 >    r:84, b:68, m:62, k:49, j:48, w:47, i:41, p:30 u:24, d:23, h:23, v:22, x:20, y:19, n:17, s:17, t:13, L:8, o:7, q:7, a:5, c:5, e:5, f:1, g:1, z:0
 
 ###	The English alphabet frequency order:
