@@ -19,7 +19,7 @@ for(i = 0; i < cipherLetters.length; i++){
 }
 console.log(relativeFreq)
 
-//Converts the original cipher into an array of string, as strings are immutable
+//Converts the original cipher into an array of strings, as strings are immutable
 plainText = [...cipher]
 
 //The letter I want to substitute in as plaintext
