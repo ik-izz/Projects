@@ -21,7 +21,7 @@ for letter in cipher:
 # outputs the relative frequency for each letter
 print('Relative frequency:')
 for letter in letters:
-  print(f'{letter[0]}: {int((letter[1]/len(cipher)*100))}%' )
+  print(f'{letter[0]}: {letter[1]}' )
 
 #Loops until user inputs EXIT and will replace the ciphertext with plaintext specified by the user
 while (True):
